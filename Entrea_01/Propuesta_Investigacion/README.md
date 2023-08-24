@@ -43,7 +43,23 @@ Muchos ya conocen los fundamentos de la música urbana, su origen y los artistas
 
 
 ## ¿Cómo planeamos trabajar los datos?
-...
+Los datos que hemos recopilado serán utilizados para visualizar y trazar la evolución de la presencia de los artistas chilenos en el escenario musical global (dentro del top 200) durante el período comprendido entre 2020 y 2022. La representación gráfica de estos datos tomará la forma de un mapa mundial en el cual se exhibirán los oyentes por país mediante círculos, acompañados de una línea de tiempo. Esta representación permitirá identificar los países en los que estos artistas han sido escuchados a lo largo del tiempo.
+A partir de los datos obtenidos de cada artista, llevaremos a cabo una comparativa entre su presencia en Spotify y el uso de sus canciones en TikTok. De esta manera, estableceremos una relación entre ambos aspectos. 
+
+### ¿Qué datos necesitamos para poner a prueba esta hipótesis? 
+Los datos necesarios deben incluir la cantidad de oyentes por artista (canción), su ubicación y el año correspondiente, abarcando el período de 2020 a 2022.
+
+### ¿Qué información poseemos actualmente y qué información aún necesitamos obtener?
+Actualmente, contamos con datos referentes [al top 50 del año 2020](https://www.kaggle.com/datasets/hkapoor/spotify-top-songs-by-country-may-2020), [el top 200 mundial correspondiente al año 2022](https://www.kaggle.com/datasets/sveta151/spotify-top-chart-songs-2022) y [el top 200 de reproducciones de cada canción a nivel global (desde 2020 hasta 2023)](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06). Sin embargo, nos falta información sobre la geolocalización en todos los años, datos relativos a la cantidad de oyentes por artista y detalles año por año.
+
+La información proporcionada por Spotify Charts no incluye la cantidad de reproducciones en todos los países o ciudades. Por lo tanto, necesitamos una estrategia eficiente para recopilar los datos de Spotify Charts.
+
+### ¿Qué datos son de acceso público y cuáles no? 
+Los datos de Spotify están a disposición del público, al igual que las bases de datos disponibles en Kaggle. Sin embargo, la información de geolocalización de los oyentes no es de dominio público.
+
+### ¿Qué datos son confiables y cuáles requieren un análisis más detenido? 
+Los datos de Spotify Charts son publicados oficialmente por la aplicación, y en lo que respecta a los datos obtenidos de Kaggle, la metodología subyacente en las bases de datos incorpora una muestra considerable (más de cien mil usuarios). Aunque estos datos son confiables, resulta crucial examinar minuciosamente la metodología subyacente para una interpretación precisa.
+
 
 ## Necesitamos conocer
 ...
