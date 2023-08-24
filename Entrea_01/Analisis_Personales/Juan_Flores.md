@@ -1,6 +1,9 @@
-# Análsis personal
+# Análisis personal
 Yo considero que es relevante porque el crecimiento del género urbano chileno es un tema contingente, constantemente están apareciendo nuevos jóvenes que mediante la música muestran sus vivencias. Además es un mensaje de superación para los chilenos. Muchos de los artistas comenzaron sin un sello, solo ellos creando su música y aún así lograron posicionarse sobre artistas de talla mundial. Entonces, es importante mostrar que con esfuerzo y sabiendo usar los recursos  se pueden lograr muchas cosas, en este caso en la música, pero se puede extrapolar a otros ámbitos
+
 En relación con mi último punto, espero contar que sí se puede llegar lejos. Chile es un país donde no hay un apoyo sistemático para nuestros artistas. Entonces mostrar mediante datos que si se tiene una idea del alcance de las redes sociales se puede crear un producto importante. Por lo anterior, el impacto que se busca generar es incentivar a más personas a mostrar sus creaciones por redes sociales.
+
 Para contar esta historia me gustaría ver cómo han evolucionado los distintos artistas chilenos que han llegado posicionarse en el top mundial de spotify. Para esto hacer un repaso por su historia, sus logros y cómo se fue forjando el tema con el que lograron posicionarse en el radar del mundo. Otra de las ideas es ver en qué países, obviando Chile, estos artistas son los más escuchados. Para esto hacer una mapa interactivo donde según la cantidad de música chilena que se reproduzca hacerlos más grandes. Esto con el fin de que los nuevos artistas sepan dónde apuntar con sus canciones. Por último hacer una recopilación de las temáticas de las canciones y/o artistas que lograron entrar a lo más alto de la música digital.
+
 Para finalizar, con este proyecto me gustaría aprender a contar historias partiendo de una gran base de datos. Considero que esto es muy importante en la época digital en la que vivimos. Además de aprender a cómo organizar esto no solo en una hoja de papel sino que hacerla interactiva.
 
