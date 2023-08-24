@@ -1,10 +1,9 @@
 # Análisis personal - Martina Núñez Quiroz
 
-¿Por qué es relevante para ti realizar este tema? 
+Desde mi perspectiva personal, considero que el tema de nuestra investigación posee una relevancia innegable. Aborda una problemática sumamente actual que se encuentra arraigada en nuestra comunidad, especialmente entre los jóvenes de nuestro país. Un enfoque de esta naturaleza tiene el potencial de generar un impacto considerable en este público específico y, de profundizarse aún más, podría resultar excepcional.
 
-¿Qué esperas contar y/o revelar con él? ¿Cuál es el impacto que esperas generar? 
+En mi caso particular, mi objetivo es transmitir y descubrir a través de este tema que el género urbano dista mucho de la negativa percepción que a menudo se le atribuye. Un prejuicio profundamente arraigado surge debido a que los cantantes expresan sus realidades a través de sus letras. Mi intención es que las personas comprendan que este estilo musical acerca a la audiencia a las vidas de numerosos chilenos, derribando la connotación negativa asociada. Es crucial reconocer que, a pesar de los prejuicios, este género musical ha avanzado gracias al esfuerzo incansable de los artistas. Espero que, junto a mi equipo, logremos impactar al máximo número de chilenos posible, demostrando que los habitantes de Chile podemos alcanzar altas metas y traspasar fronteras al narrar nuestras vivencias, inclusive si no son del gusto de todos. Ya varios cantantes han sido reconocidos fuera de Chile y han obtenido un éxito significativo en sus carreras.
 
-Elabora al menos 3 ideas que te gustaría realizar para contar la historia 
+En lo que respecta a las tres propuestas para nuestra Web Story, mi primera idea consiste en ofrecer una visión panorámica de la música urbana. Presentaría tanto a los artistas consagrados como a los emergentes que han emergido a través de las redes sociales, subrayando sus logros. Mi segunda noción abordaría el papel de las redes sociales en la proyección global de los artistas y sus barrios, y cómo han superado diversas adversidades. La tercera idea se centraría en la revolución sonora que las redes sociales han instigado en este género musical. Los artistas, al sumergirse en el mundo digital, logran conectar con variados públicos, adaptando sus enfoques con respecto a años anteriores y enriqueciendo aún más sus trayectorias.
 
-¿Qué te gustaría aprender en este proyecto? 
-
+Finalmente, anhelo adquirir en este proyecto la habilidad de construir una Web Story desde sus cimientos y de programar en relación a un tema tan cautivador. Además, ambiciono ampliar mi comprensión sobre la música urbana y adentrarme en este género musical juvenil. Esto me permitirá comprender de manera más profunda los intereses de los jóvenes en la actualidad, sus preferencias musicales y, sobre todo, cómo las redes sociales influyen en este contexto general.
