@@ -17,7 +17,24 @@ Sin embargo, ¿cuál es el rol exacto de las redes sociales en este fenómeno? E
 Las redes sociales desempeñan un papel fundamental en el auge de la música urbana chilena.
 
 ## Antecedentes
-...
+Como antecedentes en relación al tema que estamos abordando, hemos realizado una exhaustiva búsqueda en internet sobre todo lo relacionado con la música urbana chilena.
+
+En esta búsqueda, investigamos la base de datos de Spotify Chile con el objetivo de identificar las canciones y artistas chilenos más escuchados en el periodo comprendido entre 2020 y 2023. A partir de estos datos, esperamos establecer relaciones y comparaciones para analizar el progreso y el crecimiento de este género musical, así como para evaluar el impacto de las redes sociales en su desarrollo.
+
+Los datos que conforman la base de canciones y artistas más escuchados en Spotify durante estos años reflejan las reproducciones que la música urbana ha obtenido por parte de los usuarios y oyentes de este estilo. Estos tipos de datos se clasifican de manera estructurada y cuantitativa, ya que están presentes en Excel y contienen información numérica.
+
+Por otra parte, también recolectamos una base de datos relacionada con TikTok. En esta plataforma, los orígenes y la naturaleza de los datos se centran en las acciones de los usuarios de la aplicación, tanto en las descargas como en las interacciones dentro de la misma. Al igual que los datos de Spotify, se califican de manera estructurada y cuantitativa, ya que también están organizados en una hoja de cálculo de Excel con valores numéricos.
+
+Con las bases de datos que hemos recopilado hasta este momento, tenemos la intención de analizar los datos de manera precisa y llegar a conclusiones razonables y lógicas en relación con nuestro tema central. Nuestro enfoque se centra en examinar cómo las redes sociales contribuyen a la popularización del género urbano.
+
+Se han publicado diversas notas y estudios sobre el crecimiento de la música urbana. Por ejemplo, en 2019, CNN realizó un artículo titulado "Así fue cómo el trap se convirtió en el género favorito de la juventud chilena". En esta nota, se hace una recopilación de los primeros artistas de este estilo musical, los máximos exponentes chilenos del género y cómo el éxito del mismo se atribuye a la difusión de las canciones a través de internet.
+
+Por otro lado, Ciper en su artículo "«Urbanos»: No sólo se trata de música (ni de ‘likes’)" plantea que la música urbana se ha consolidado como un fenómeno de gran alcance. El artículo relata la historia general del género y las temáticas generales de las canciones. También menciona como dato relevante que, desde 2019, la música urbana es lo más escuchado en plataformas de streaming.
+
+En otra perspectiva, Juan C. Calvi en su trabajo "Música, espacios urbanos y redes", publicado en la revista TELOS, plantea que internet permite nuevas formas de circulación, acceso y consumo de música. Además, esta transformación va acompañada de las lógicas y usos sociales desarrollados por los usuarios.
+
+Estos estudios nos han servido como guía y los hemos tenido en cuenta para orientar nuestro enfoque en el tema central de nuestro proyecto.
+
 
 ## Historia nuestra de investigación
 Nuestro grupo tiene como objetivo crear una WebStory centrada en la popularización de la música urbana en Chile. Sin embargo, al investigar en internet, hemos encontrado numerosas historias repetitivas sobre el tema. Por lo tanto, hemos decidido enfocar nuestro proyecto en el uso de las redes sociales y cómo estas plataformas contribuyen a difundir y promover este estilo de música entre las personas. Además, nos interesa analizar cómo las tendencias de TikTok influyen en la búsqueda y descubrimiento de nuevas canciones y artistas, así como el papel que han desempeñado en el crecimiento de los artistas chilenos.
