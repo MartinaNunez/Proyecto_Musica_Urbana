@@ -1,3 +1,3 @@
 # Base de Datos necesaria
 
-Aquí se encuentra nuestro archivo en formato PDF correspondiente a la presentación de la entrega 01.
+Dentro de esta carpeta está almacenada nuestra base de datos, la cual consideramos es esencial para el desarrollo de nuestro proyecto final.
