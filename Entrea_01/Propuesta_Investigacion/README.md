@@ -27,7 +27,7 @@ Por otra parte, también recolectamos una base de datos relacionada con TikTok. 
 
 Con las bases de datos que hemos recopilado hasta este momento, tenemos la intención de analizar los datos de manera precisa y llegar a conclusiones razonables y lógicas en relación con nuestro tema central. 
 
-Se han publicado diversas notas y estudios sobre el crecimiento de la música urbana. Por ejemplo, en 2019, CNN realizó un artículo titulado "Así fue cómo el trap se convirtió en el género favorito de la juventud chilena". En esta nota, se hace una recopilación de los primeros artistas de este estilo musical, los máximos exponentes chilenos del género y cómo el éxito del mismo se atribuye a la difusión de las canciones a través de internet.
+Con respecto a lo mismo se han publicado diversas notas y estudios sobre el crecimiento de la música urbana. Por ejemplo, en 2019, CNN realizó un artículo titulado "Así fue cómo el trap se convirtió en el género favorito de la juventud chilena". En esta nota, se hace una recopilación de los primeros artistas de este estilo musical, los máximos exponentes chilenos del género y cómo el éxito del mismo se atribuye a la difusión de las canciones a través de internet.
 
 Por otro lado, Ciper en su artículo "«Urbanos»: No sólo se trata de música (ni de ‘likes’)" plantea que la música urbana se ha consolidado como un fenómeno de gran alcance. El artículo relata la historia general del género y las temáticas generales de las canciones. También menciona como dato relevante que, desde 2019, la música urbana es lo más escuchado en plataformas de streaming.
 
