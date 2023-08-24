@@ -74,4 +74,11 @@ Podemos plantear las siguientes preguntas:
 Para nuestra base de datos inicial contamos con datos referentes [al top 50 del año 2020](https://www.kaggle.com/datasets/hkapoor/spotify-top-songs-by-country-may-2020), [el top 200 mundial correspondiente al año 2022](https://www.kaggle.com/datasets/sveta151/spotify-top-chart-songs-2022) y [el top 200 de reproducciones de cada canción a nivel global (desde 2020 hasta 2023)](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06).
 
 ## Bibliografía
-...
+* [Calvi, J. (s/f). Música, espacios urbanos y redes. Fundaciontelefonica.com. Recuperado el 24 de agosto de 2023](https://telos.fundaciontelefonica.com/archivo/numero097/musica-espacios-urbanos-y-redes/?output=pdf#:~:text=Las%20pr%C3%A1cticas%20emergentes%20de%20creaci%C3%B3n%20y%20apropiaci%C3%B3n%20de,como%20pr%C3%A1cticas%20de%20%E2%80%98don%E2%80%99%20y%20nocomo%20recursos%20culturales)
+* [Chile, C. N. N. (2019, diciembre). Así fue cómo el trap se convirtió en el género favorito de la juventud chilena. CNN Chile.](https://www.cnnchile.com/ladecada-entretenimiento/que-es-el-trap-genero-favorito-juventud-chilena_20191223/)
+* [Kapoor, H. (2020). Spotify - Top Songs by Country Charts [Data set].](https://www.kaggle.com/datasets/hkapoor/spotify-top-songs-by-country-may-2020)
+* [Leiva, J. (2023, enero). “Urbanos”: No sólo se trata de música (ni de ’likes’). CIPER Chile; Fundación CIPER.](https://www.ciperchile.cl/2023/01/25/urbanos-no-solo-se-trata-de-musica/)
+* [Martínez, I. (2, febrero). El reggaetón chileno salta a la primera línea de la música urbana mundial. swissinfo.ch.](https://www.swissinfo.ch/spa/chile-m%C3%BAsica_el-reggaet%C3%B3n-chileno-salta-a-la-primera-l%C3%ADnea-de-la-m%C3%BAsica-urbana-mundial/48311070)
+* [Spotify Charts - Spotify Charts are made by fans. (s/f-b). Spotify.com. Recuperado el 24 de agosto de 2023](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06)
+* [Sveta. (2022). Spotify top chart songs 2022 [Data set].](https://www.kaggle.com/datasets/sveta151/spotify-top-chart-songs-2022)
+
