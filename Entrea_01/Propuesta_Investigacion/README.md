@@ -61,8 +61,14 @@ Los datos de Spotify están a disposición del público, al igual que las bases 
 Los datos de Spotify Charts son publicados oficialmente por la aplicación, y en lo que respecta a los datos obtenidos de Kaggle, la metodología subyacente en las bases de datos incorpora una muestra considerable (más de cien mil usuarios). Aunque estos datos son confiables, resulta crucial examinar minuciosamente la metodología subyacente para una interpretación precisa.
 
 
-## Necesitamos conocer
-...
+## ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?
+El mínimo que se puede mencionar es que los artistas chilenos de reguetón y trap han logrado asegurarse un lugar en el top mundial de la música. El máximo se refiere a la evolución de los artistas a nivel global desde el año 2020 hasta la fecha actual. Además, año tras año, superan las expectativas y compiten con artistas que son gigantes a nivel mundial, como los estadounidenses.
+
+Podemos plantear las siguientes preguntas:
+* ¿Cómo ha crecido la industria musical chilena entre 2020 y 2022?
+* ¿Cuáles son los artistas que han logrado una mayor internacionalización?
+* ¿Sirve TikTok para potenciar la carrera de un artista?
+* ¿Cuáles son los países que más escuchan a los artistas chilenos?
 
 ## Base de datos inicial
 ...
