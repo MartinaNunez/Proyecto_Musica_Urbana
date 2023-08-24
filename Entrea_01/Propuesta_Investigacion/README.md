@@ -25,7 +25,7 @@ Los datos que conforman la base de canciones y artistas más escuchados en Spoti
 
 Por otra parte, también recolectamos una base de datos relacionada con TikTok. En esta plataforma, los orígenes y la naturaleza de los datos se centran en las acciones de los usuarios de la aplicación, tanto en las descargas como en las interacciones dentro de la misma. Al igual que los datos de Spotify, se califican de manera estructurada y cuantitativa, ya que también están organizados en una hoja de cálculo de Excel con valores numéricos.
 
-Con las bases de datos que hemos recopilado hasta este momento, tenemos la intención de analizar los datos de manera precisa y llegar a conclusiones razonables y lógicas en relación con nuestro tema central. Nuestro enfoque se centra en examinar cómo las redes sociales contribuyen a la popularización del género urbano.
+Con las bases de datos que hemos recopilado hasta este momento, tenemos la intención de analizar los datos de manera precisa y llegar a conclusiones razonables y lógicas en relación con nuestro tema central. 
 
 Se han publicado diversas notas y estudios sobre el crecimiento de la música urbana. Por ejemplo, en 2019, CNN realizó un artículo titulado "Así fue cómo el trap se convirtió en el género favorito de la juventud chilena". En esta nota, se hace una recopilación de los primeros artistas de este estilo musical, los máximos exponentes chilenos del género y cómo el éxito del mismo se atribuye a la difusión de las canciones a través de internet.
 
