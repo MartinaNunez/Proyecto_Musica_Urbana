@@ -70,6 +70,10 @@ Podemos plantear las siguientes preguntas:
 * ¿Sirve TikTok para potenciar la carrera de un artista?
 * ¿Cuáles son los países que más escuchan a los artistas chilenos?
 
+Para visualizar nuestros datos de manera efectiva, emplearemos tanto la funcionalidad "Opciones de Gráficos de Google Maps" como la herramienta de gráficos de PowerBI. Mediante estas opciones, lograremos desarrollar representaciones visuales claras y accesibles. Utilizaremos colores o círculos en conjunto con una barra interactiva que permitirá seleccionar intervalos de tiempo específicos, generando así una progresión diaria por país.
+
+A través de estas herramientas visuales, conseguiremos presentar de manera gráfica la evolución del género de trap y reguetón en Chile a nivel mundial. A medida que el tiempo avanza, el mapa experimentará cambios en su tonalidad en las zonas geográficas donde los músicos chilenos hayan obtenido mayores reproducciones. Este enfoque no solo facilitará la identificación de los puntos de mayor impacto, sino que también permitirá establecer conexiones con las estadísticas del uso de estas canciones en la plataforma de redes sociales TikTok. En esencia, estas herramientas digitales enriquecerán la narrativa al proporcionar una perspectiva visualmente rica y altamente informativa.
+
 ## Base de datos inicial
 Para nuestra base de datos inicial contamos con datos referentes [al top 50 del año 2020](https://www.kaggle.com/datasets/hkapoor/spotify-top-songs-by-country-may-2020), [el top 200 mundial correspondiente al año 2022](https://www.kaggle.com/datasets/sveta151/spotify-top-chart-songs-2022) y [el top 200 de reproducciones de cada canción a nivel global (desde 2020 hasta 2023)](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06).
 
