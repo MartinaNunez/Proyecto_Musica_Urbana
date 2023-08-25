@@ -19,7 +19,7 @@ Las redes sociales desempeñan un papel fundamental en el auge de la música urb
 ## Antecedentes
 Como antecedentes en relación al tema que estamos abordando, hemos realizado una exhaustiva búsqueda en internet sobre todo lo relacionado con la música urbana chilena.
 
-En esta búsqueda, investigamos la base de datos de Spotify Chile con el objetivo de identificar las canciones y artistas chilenos más escuchados en el periodo comprendido entre 2020 y 2023. A partir de estos datos, esperamos establecer relaciones y comparaciones para analizar el progreso y el crecimiento de este género musical, así como para evaluar el impacto de las redes sociales en su desarrollo.
+En esta búsqueda, investigamos la base de datos de Spotify Chile con el objetivo de identificar las canciones y artistas chilenos más escuchados en el periodo comprendido entre 2020 y 2022. A partir de estos datos, esperamos establecer relaciones y comparaciones para analizar el progreso y el crecimiento de este género musical, así como para evaluar el impacto de las redes sociales en su desarrollo.
 
 Los datos que conforman la base de canciones y artistas más escuchados en Spotify durante estos años reflejan las reproducciones que la música urbana ha obtenido por parte de los usuarios y oyentes de este estilo. Estos tipos de datos se clasifican de manera estructurada y cuantitativa, ya que están presentes en Excel y contienen información numérica.
 
