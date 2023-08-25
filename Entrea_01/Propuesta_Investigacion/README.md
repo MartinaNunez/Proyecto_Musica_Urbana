@@ -55,7 +55,7 @@ Actualmente, contamos con datos referentes [al top 50 del año 2020](https://www
 La información proporcionada por Spotify Charts no incluye la cantidad de reproducciones en todos los países o ciudades. Por lo tanto, necesitamos una estrategia eficiente para recopilar los datos de Spotify Charts.
 
 ### ¿Qué datos son de acceso público y cuáles no? 
-Los datos de Spotify están a disposición del público, al igual que las bases de datos disponibles en Kaggle. Sin embargo, la información de geolocalización de los oyentes no es de dominio público.
+Los datos de Spotify están a disposición del público, al igual que las bases de datos disponibles en Kaggle. Sin embargo, la información de geolocalización de los oyentes no es de dominio público o se encuentra respaldada. 
 
 ### ¿Qué datos son confiables y cuáles requieren un análisis más detenido? 
 Los datos de Spotify Charts son publicados oficialmente por la aplicación, y en lo que respecta a los datos obtenidos de Kaggle, la metodología subyacente en las bases de datos incorpora una muestra considerable (más de cien mil usuarios). Aunque estos datos son confiables, resulta crucial examinar minuciosamente la metodología subyacente para una interpretación precisa.
