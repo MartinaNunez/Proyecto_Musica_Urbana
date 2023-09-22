@@ -10,4 +10,4 @@ En esta entrega, como grupo, presentaremos la limpieza de nuestras 30 bases de d
 1. Scripts
 1. Otros (si es necesario)
 * Carpeta con nuestro PPT de presentación 
-* Además, el video de nuestra presentación está disponible en Youtube.
+Además, el video de nuestra presentación está disponible en Youtube.
