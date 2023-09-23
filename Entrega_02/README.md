@@ -21,7 +21,7 @@ Hemos decidido seleccionar 8 países diferentes para trabajar con sus bases de d
 
 Consideramos principalmente países de habla hispana en Latinoamérica. Por ese motivo, excluimos a Brasil debido a su idioma distinto, lo que genera una lista de música completamente diferente, principalmente con artistas que hablan portugués. 
 
-De Sudamérica, seleccionamos Argentina, Chile, Colombia y Perú, destacando su alta población. No consideramos a Venezuela debido a la disponibilidad de datos a partir de 2022.
+De Sudamérica, seleccionamos Argentina, Colombia y Perú, destacando su alta población. No consideramos a Venezuela debido a la disponibilidad de datos a partir de 2022.
 
 Chile fue seleccionado porque nos enfocaremos en artistas de este país y es fundamental verificar su impacto a nivel nacional antes de explorar su influencia en otros lugares.
 
