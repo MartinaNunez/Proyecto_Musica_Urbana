@@ -37,6 +37,7 @@ Para llevar a cabo este trabajo, cada uno de los tres integrantes se encargará 
 
 En primer lugar, limpiaremos cada base de datos por país. Nuestra principal meta en este proceso es identificar cuál es la canción chilena que se repite con mayor frecuencia en las reproducciones de cada país y en el "Top Global". Con estos datos, continuaremos trabajando en nuestro proyecto, en el que buscamos tener una base de datos por cada canción urbana chilena más reproducida. 
 
+## 
 Finalmente, en las carpetas de este repositorio, se incluyen los siguientes requisitos mínimos para la entrega:
 
 * Carpeta por cada integrante en las que se incluyen:
