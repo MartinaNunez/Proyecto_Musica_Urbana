@@ -7,4 +7,5 @@ En esta entrega, como grupo, presentaremos nuestra propuesta de investigación a
 * Carpeta con nuestros análisis críticos personales.
 * Carpeta con la presentación.
 * Carpeta con la base de datos necesaria.
-* Además, el video de nuestra presentación está [disponible en Youtube.](https://www.youtube.com/watch?v=h_iAon4jkY8)
+
+Además, el video de nuestra presentación está [disponible en Youtube.](https://www.youtube.com/watch?v=h_iAon4jkY8)
