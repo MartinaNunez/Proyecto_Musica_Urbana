@@ -19,13 +19,17 @@ Hemos decidido seleccionar 8 países diferentes para trabajar con sus bases de d
 * México
 * España
 
-Consideramos principalmente países de Latinoamérica y habla hispana. Por ese motivo, dejamos fuera a Brasil, ya que al hablar un idioma distinto, su lista de música es completamente diferente a la de los demás países seleccionados, principalmente con artistas que hablan portugués. 
+Consideramos principalmente países de habla hispana en Latinoamérica. Por ese motivo, excluimos a Brasil debido a su idioma distinto, lo que genera una lista de música completamente diferente, principalmente con artistas que hablan portugués. 
 
-De Sudamérica, seleccionamos a Argentina, Chile, Colombia y Perú, todos excluyendo Chile, por ser los países más poblados de la región. No consideramos a Venezuela, ya que los datos solo están disponibles a partir de 2022.
+De Sudamérica, seleccionamos Argentina, Chile, Colombia y Perú, destacando su alta población. No consideramos a Venezuela debido a la disponibilidad de datos a partir de 2022.
 
-Chile fue seleccionado porque nos centraremos en artistas de este país, y antes de ver si tienen impacto en otros lugares, es necesario comprobarlo a nivel nacional. De Centroamérica, seleccionamos a Guatemala y Honduras por ser los dos países con más población en la zona. 
+Chile fue seleccionado porque nos enfocaremos en artistas de este país y es fundamental verificar su impacto a nivel nacional antes de explorar su influencia en otros lugares.
 
-México fue el único de Norteamérica, ya que es el único lugar donde se habla español como idioma oficial, además de considerarse por su población superior a los 100 millones de personas. Además, incluimos a España, que es un país de habla hispana en otro continente.
+En Centroamérica, elegimos a Guatemala y Honduras debido a su población considerable.
+
+México fue la única selección de Norteamérica, ya que es el único país donde se habla español como idioma oficial y debido a su población superior a los 100 millones de personas. 
+
+También consideramos a España, un país de habla hispana en otro continente.
 
 Con respecto a lo mismo, hemos optado por dividir el trabajo por año y utilizar la base de datos correspondiente a la semana del 2 de julio. Hemos elegido esta fecha ya que marca la mitad del año.
 
