@@ -3,6 +3,7 @@
 Para esta segunda entrega de nuestro proyecto, como grupo, tomamos la decisión de cambiar nuestra hipótesis e idea principal. Esto se debió a que los datos que recolectamos para la primera entrega no fueron de gran utilidad. Además, no contábamos con datos de redes sociales que respaldaran nuestra hipótesis inicial. Por lo tanto, nuestro nuevo enfoque se presenta de la siguiente manera:
 
 __Idea principal:__ "Orígenes y Proyección Internacional de la Música Urbana Chilena: Un Análisis de su Impacto Global."
+
 __Hipótesis:__ “La música urbana chilena ha trascendido su alcance local para convertirse en un fenómeno de alcance internacional.”
 
 Con este cambio, en esta segunda entrega nos centraremos en la limpieza de datos y trabajaremos con la base de datos del ["Top 200" de reproducciones de cada canción a nivel global desde 2020 hasta 2022.](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06)
