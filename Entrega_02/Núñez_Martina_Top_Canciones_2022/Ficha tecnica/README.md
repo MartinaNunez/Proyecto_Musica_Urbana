@@ -40,3 +40,7 @@ Con respecto al alcance metodológico, los puntos clave son los siguientes:
 Con respecto a mi base de datos original, la primera fase de limpieza no resultó tan complicada. Durante este proceso, eliminé las columnas que no eran necesarias y las consolidé en un solo lugar, lo cual considero como la mejor decisión que tomé. Esto me permitió trabajar con todos los datos en un solo lugar, sin la necesidad de saltar entre múltiples bases de datos.
 
 Inicialmente, la base de datos era extensa y contenía una gran cantidad de información, lo que la hacía voluminosa. Sin embargo, después de la limpieza completa, que involucró inicialmente casi 1801 datos, logramos reducirla a lo que estábamos buscando: los artistas y canciones urbanas chilenas más escuchadas, lo cual arrojó 46 datos. Esta reducción representa un cambio significativo, ya que los datos resultantes se pueden trabajar de manera mucho más eficiente. Además, estos datos son precisos y esenciales para nuestra investigación.
+
+## Bibliografía
+
+* [Duna, R. (2022, marzo 21). ¿Quién es Marcianeke?: El artista chileno más escuchado en Spotify en 2021](https://www.duna.cl/cultura/musica/2022/03/21/quien-es-marcianeke-el-artista-chileno-mas-escuchado-en-spotify-en-2021/) 
