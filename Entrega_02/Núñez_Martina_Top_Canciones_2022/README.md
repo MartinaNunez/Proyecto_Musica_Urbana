@@ -11,7 +11,7 @@ Para asegurar un reparto equitativo de trabajo, cada uno de nosotros se encargó
 1. Extraje la base de datos de cada país junto con el Top Global, de forma individual. Estos datos corresponden a la semana del 2 de julio, tal como acordamos con mis compañeros.
 1. Luego de obtener cada una de estas bases de datos, revisé detenidamente las columnas utilizando "Google Colab" para identificar cuáles eran relevantes para nuestro proyecto de investigación.
 1. Después de realizar esta revisión, procedí a limpiar cada base de datos de manera independiente, eliminando las columnas que no serían útiles para nuestro análisis.
-1. Con las bases de datos limpias a mi disposición, el siguiente paso fue combinar las nueve bases de datos en "Google Colab". Esta unión facilitó el trabajo al tener todos los datos en una única base de datos, que considero como mi base de datos original.
+1. Una vez que tuve las bases de datos limpias a mi disposición, procedí a fusionar las nueve en "Google Colab". Esta unión simplificó el proceso al consolidar todos los datos en una única base de datos, que considero como mi base de datos original. Para mantener la trazabilidad de los datos sin perder de vista su origen por país, incorporé una nueva columna denominada "archivo".
 1. *agregar los demás pasos*
 
 ## Lista de las fuentes de datos utilizadas y explicación de por qué las elegimos
