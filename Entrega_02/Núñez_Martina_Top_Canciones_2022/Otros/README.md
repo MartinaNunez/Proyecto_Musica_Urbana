@@ -1,4 +1,4 @@
-# Otros - Martina
+# Otros - Martina Núñez
 
 En esta carpeta encontrarás los archivos que considero relevantes para complementar mi trabajo de la entrega 02.
 (Solo si es necesario)
