@@ -1,4 +1,4 @@
-# Ficha técnica - Martina Núñez
+# Ficha técnica (año 2022) - Martina Núñez
 
 ## Característica de los datos
 
