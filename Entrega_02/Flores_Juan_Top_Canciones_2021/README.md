@@ -11,7 +11,7 @@ De esta forma nos quedamos con rank, artist names, track name, peak rank, weeks 
 Luego de hacer esta limpieza base a base decidimos unir todas las bases limpias en una sola. Para esto creamos una nueva columna llamada país donde aparece el archivo del que proviene cada columna. 
 Lo anterior es de suma importancia para el paso 3. En este filtramos según los artistas chilenos que aparecen en  el top de Chile. De esta forma obtuvimos finalmente una base de datos solo con las canciones donde salen chilenos y el lugar de donde se escuchan.
 # Ejemplos
-*¿Cuáles son los artistas chilenos más escuchados en 2021?
-*¿Qué canciones chilenas son las más populares en 2021?
-*¿Hay alguna canción chilena que entre en el top de otro país o global?
+* ¿Cuáles son los artistas chilenos más escuchados en 2021?
+* ¿Qué canciones chilenas son las más populares en 2021?
+* ¿Hay alguna canción chilena que entre en el top de otro país o global?
 
