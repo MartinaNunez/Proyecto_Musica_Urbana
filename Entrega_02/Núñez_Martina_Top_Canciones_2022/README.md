@@ -40,9 +40,9 @@ Basándonos en todos estos elementos, esperamos que, con nuestro trabajo por sep
 
 ## Preguntas que se le pueden hacer a la base de datos limpia
 
-1. ¿Cuál es el artista con más canciones en el ranking?
-1. ¿Cuál es el artista con más streams totales en todas sus canciones?
-1. ¿Cuál es el promedio de semanas en el chart para las canciones de cada artista?
+1. ¿Cuál es la canción más popular de un artista específico?
+1. ¿Cuál es la canción de música urbana chilena más popular en un país específico?
+1. ¿Cuál es el artista con más canciones en la lista?
 
 ## Bibliografía
 
