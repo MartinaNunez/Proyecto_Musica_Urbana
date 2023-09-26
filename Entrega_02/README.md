@@ -35,7 +35,7 @@ Con respecto a lo mismo, hemos optado por dividir el trabajo por año y utilizar
 
 Para llevar a cabo este trabajo, cada uno de los tres integrantes se encargará de una parte específica. Jorge Gálvez trabajará con la base de datos de cada país junto con el "Top Global" del año 2020. Juan Flores se encargará de la base de datos de cada país y el "Top Global" del año 2021. Por último, Martina Núñez trabajará con la base de datos de cada país y el "Top Global" del año 2022.
 
-En primer lugar, limpiaremos cada base de datos por país. Nuestra principal meta en este proceso es identificar cuál es la canción chilena que se repite con mayor frecuencia en las reproducciones de cada país y en el "Top Global". Con estos datos, continuaremos trabajando en nuestro proyecto, en el que buscamos tener una base de datos por cada canción urbana chilena más reproducida. 
+En primer lugar, limpiaremos cada base de datos por país. Nuestra principal meta en este proceso es identificar cuál es la canción chilena que se repite con mayor frecuencia en las reproducciones de cada país y en el "Top Global". 
 
 ## 
 Finalmente, en las carpetas de este repositorio, se incluyen los siguientes requisitos mínimos para la entrega:
