@@ -49,4 +49,4 @@ Finalmente, en las carpetas de este repositorio, se incluyen los siguientes requ
 1. Otros (si es necesario)
 * Carpeta con nuestro PPT de presentación
 
-Además, el video de nuestra presentación está disponible en Youtube.
+Además, el video de nuestra presentación está [disponible en Youtube.](https://youtu.be/7DU7fh-sabc)
