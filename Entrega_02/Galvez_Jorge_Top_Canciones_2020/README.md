@@ -36,6 +36,11 @@ De todas las categorías que se encuentran en la base de datos, solo utilizaremo
 - peak_name
 - weeks_on_chart
 - stream
+Se procedio a la eliminación de las siguientes filas:
+- uri
+- source
+- previus_rank
+
 Ademas de estos datos, agregaremos una fila correspondiente al país de origen con el nombre "país", para poder separar los datos de los distintos origenes. Seguimos evaluando la necesidad de agregar una fila correspondiente al año, lo cual dependera de como trabajemos los datos a futuro.
 
 ### Artistas seleccionados
