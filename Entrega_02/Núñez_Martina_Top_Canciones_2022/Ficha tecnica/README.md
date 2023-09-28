@@ -32,8 +32,12 @@ Con respecto al alcance metodológico, los puntos clave son los siguientes:
 
 ## Variable incorporadas: variable | descripción
 
-* En la base de datos original, luego de limpiar las 9 bases de datos por separado, las unimos y añadimos una nueva columna llamada "país". Esta acción se llevó a cabo para mantener el orden y poder identificar el país de origen de los datos sin tener que revisar cada base de datos individualmente. 
-* Otra variable crucial en todo el trabajo es la de los "artistas urbanos chilenos". Esta variable estará presente en la mayoría de las etapas del proyecto, ya que estamos investigando y llevando a cabo la limpieza de la base de datos con el propósito de recopilar información relevante para nuestra hipótesis inicial, que incluye si o si esta variable.
+* __Rank:__ Se refiere al puesto (del 1 al 200) que ocupa esa canción en el país seleccionado.
+* __Artist_Names:__ Es el nombre del o los artistas que participan en la canción.
+* __Peak_rank:__ Es el puesto más alto que alcanzó la canción hasta la fecha de recolección de datos.
+* __Weeks_on_chart:__ Indica el número de semanas que la canción ha estado en el top.
+* __Streams:__ Representa el número de reproducciones que la canción tuvo en esa semana.
+* __País:__ Hace referencia al país en el que esa canción se encuentra en el top. Esta categoría se incorporó porque no estaba presente en la base de datos original, con el fin de mantener la información sobre la procedencia de los datos.
 
 ## Observaciones que tengo sobre la base de datos
 
