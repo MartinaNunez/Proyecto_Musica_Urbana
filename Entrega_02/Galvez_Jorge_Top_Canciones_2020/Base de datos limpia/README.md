@@ -1,2 +1,1 @@
-Resultados de a limpieza de datos y el resultado final: Artistas_Chilenos_2020
-
+Resultados de a limpieza de datos y el resultado final: Artistas_Chilenos_2020.csv que contiene solo artistas chilenos.
