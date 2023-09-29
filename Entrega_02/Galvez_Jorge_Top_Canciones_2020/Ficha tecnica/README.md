@@ -21,9 +21,9 @@ En mi caso, los datos fueron extraidos en la fecha correspondiente al 2 de julio
 		3. El programa limpieza recorre las bases de datos y elimina las filas no deseadas, agrega al archivo una nueva columna señalando el país de origen y renombra el archivo de la siguiente manera: "Origen"_limpio_"año".csv. Ejemplo: "Chile_limpio_2020.csv".
 		4. El programa "unir archivos" toma las bases de datos ya limpias, recorre su contenido y lo copia a una lista. De esta forma, entrega un nuevo archivo de nombre "Base_datos_final.csv" que contiene todos los datos de las bases de datos limpias de todas las fuentes.
 		5. Se aplica el filtro a "Base_datos_final.csv" para dejar solo los cantantes de musica urbana y sus canciones. Esto se realiza mediante el filtro en un nuevo programa utilizando los siguientes artistas: "Pailita", "Polimá Westcoast", "Paloma Mami", "Cris Mj", "Ak4:20", "Standly", "Julianno Sosa", "King Savagge", "Young Cister", "Nickoog Clk", "Sayian Jimmy", "Tunechikidd", "Marcianeke", "Simon la letra", "El Barto", "Gino Mella", "Bailbi el Chamako", "El Bai", "Jairo Vera", "Harry Nach", "Lleflight", "Pablo Chill-E", "Galee Galee", "Dainesitta", "ITHAN NY".
-		6. Existe presencia de artistas chilenos en el top 200 mundial 
-		Se concluye que el artista chileno urbano mas escuchado del año 2020 es XXX
-		La canción chilena del genero urbano más escuchada del año 2020 es XXX
+		6. Existe presencia de artistas chilenos en el top 200 mundial: Paloma Mami y Harry Nach.
+		Se concluye que el artista chileno urbano mas escuchado del año 2020 es Harry Nach.
+		La canción chilena del genero urbano más escuchada del año 2020 es Tak Taki Tak. 
 
 ## Variables incorporadas: variable \| descripción
 
