@@ -38,6 +38,7 @@ Para el prototipado, como grupo, hemos tomado la decisión de organizar las cosa
 Nuestro enfoque principal en esta etapa es asegurarnos de que nuestras decisiones y la forma en que presentamos la información sean claras y atractivas para nuestros usuarios. Con este propósito en mente, estamos teniendo en cuenta a las personas que acceden a través de teléfonos y computadoras a Internet, asegurando que la información se adapte de manera cómoda y uniforme en ambos tipos de dispositivos.
 
 Consideramos de suma importancia que nuestro nombre destaque al ingresar a la página y que, desde el principio, los usuarios reconozcan a los tres artistas principales de la música urbana chilena. El título en el centro, junto con las imágenes, será lo primero que los usuarios vean, y a partir de ahí, podrán explorar las demás secciones.
+
 Creemos que la primera sección debe mostrar a los artistas urbanos que están detrás de las canciones populares, de manera que los usuarios los reconozcan mientras avanzan en la página.
 
 Los gráficos son elementos fundamentales en nuestro prototipado, ya que nos permitirán presentar la evolución de la música urbana, que es el foco central de nuestro proyecto. Es crucial que estos gráficos sean claros y atractivos, de modo que los datos no resulten pesados ni abrumadores para el usuario.
