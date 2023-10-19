@@ -18,7 +18,7 @@ En cuanto a los antecedentes y referentes, como grupo hemos identificado un tota
 
 ![Mapa-Condé](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_03/Antecedentes%20y%20referentes/Im%C3%A1genes/MAPA%20COND%C3%89%20NAST%20TRAVELER.png)
 
-## Biblografía
+## Bibliografía
 * [Cano, M. (2021). El mapa con las canciones más valiosas de cada país. Condé Nast Traveler Spain.](https://www.traveler.es/experiencias/articulos/mapa-canciones-mas-valiosas-reproducidas-en-cada-pais-mas-beneficio/20881)
 * [González, L. (2022). Viaje musical: estas son las canciones más escuchadas de 2022. Condé Nast Traveler Spain.](https://www.traveler.es/articulos/canciones-mas-escuchadas-de-2022-spotify)
 * [London based Modern Jewellery Brand. (s/f). Industrial-Jewel. Recuperado el 19 de octubre de 2023.](https://www.industrial-jewellery.com/)
