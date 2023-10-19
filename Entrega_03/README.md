@@ -44,10 +44,9 @@ Creemos que la primera sección debe mostrar a los artistas urbanos que están d
 Los gráficos son elementos fundamentales en nuestro prototipado, ya que nos permitirán presentar la evolución de la música urbana, que es el foco central de nuestro proyecto. Es crucial que estos gráficos sean claros y atractivos, de modo que los datos no resulten pesados ni abrumadores para el usuario.
 Además, consideramos importante proporcionar enlaces directos para que los usuarios puedan escuchar o ver los videos de las canciones sin dificultad, sin necesidad de salir de la página.
 
-Para obtener detalles más específicos sobre nuestro prototipado, invitamos ingresar a nuestra carpeta "Prototipado de baja fidelidad", donde se encuentra información más detallada.
-
 En resumen, nuestro objetivo general es brindar a nuestros usuarios una experiencia de navegación cómoda y óptima, donde puedan disfrutar de la información presentada y comprenderla fácilmente.
 
+Para obtener detalles más específicos sobre nuestro prototipado, invitamos ingresar a nuestra carpeta "Prototipado de baja fidelidad", donde se encuentra información más detallada.
 
 #
 Finalmente, en la carpeta de este repositorio se encuentran los requisitos mínimos de la entrega:
