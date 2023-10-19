@@ -33,6 +33,20 @@ Creemos que las imágenes, el nombre, el estilo de fuente elegido, los gráficos
 Toda la información mencionada anteriormente se detalla de manera más amplia en las carpetas de “Antecedentes y referentes” e “Identidad visual”.
 
 ## Prototipado: 
+Para el prototipado, como grupo, hemos tomado la decisión de organizar las cosas de manera jerárquica, priorizando la presentación de la información más importante al principio y reservando la información menos relevante para después.
+
+Nuestro enfoque principal en esta etapa es asegurarnos de que nuestras decisiones y la forma en que presentamos la información sean claras y atractivas para nuestros usuarios. Con este propósito en mente, estamos teniendo en cuenta a las personas que acceden a través de teléfonos y computadoras a Internet, asegurando que la información se adapte de manera cómoda y uniforme en ambos tipos de dispositivos.
+
+Consideramos de suma importancia que nuestro nombre destaque al ingresar a la página y que, desde el principio, los usuarios reconozcan a los tres artistas principales de la música urbana chilena. El título en el centro, junto con las imágenes, será lo primero que los usuarios vean, y a partir de ahí, podrán explorar las demás secciones.
+Creemos que la primera sección debe mostrar a los artistas urbanos que están detrás de las canciones populares, de manera que los usuarios los reconozcan mientras avanzan en la página.
+
+Los gráficos son elementos fundamentales en nuestro prototipado, ya que nos permitirán presentar la evolución de la música urbana, que es el foco central de nuestro proyecto. Es crucial que estos gráficos sean claros y atractivos, de modo que los datos no resulten pesados ni abrumadores para el usuario.
+Además, consideramos importante proporcionar enlaces directos para que los usuarios puedan escuchar o ver los videos de las canciones sin dificultad, sin necesidad de salir de la página.
+
+Para obtener detalles más específicos sobre nuestro prototipado, invitamos ingresar a nuestra carpeta "Prototipado de baja fidelidad", donde se encuentra información más detallada.
+
+En resumen, nuestro objetivo general es brindar a nuestros usuarios una experiencia de navegación cómoda y óptima, donde puedan disfrutar de la información presentada y comprenderla fácilmente.
+
 
 #
 Finalmente, en la carpeta de este repositorio se encuentran los requisitos mínimos de la entrega:
