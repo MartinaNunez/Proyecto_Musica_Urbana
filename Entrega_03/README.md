@@ -6,13 +6,16 @@ Para esta tercera entrega de nuestro proyecto, desarrollamos nuestro Wireframe +
 En el proceso de desarrollo de nuestro proyecto, resulta fundamental identificar el público objetivo y definir los perfiles clave de usuario. Para lograrlo, llevamos a cabo un minucioso perfilamiento de usuarios. A continuación, detallamos los criterios que aplicamos para la creación de estos perfiles.
 
 * Criterio 1: Artistas emergentes
-Este perfil se enfoca en artistas emergentes, basado en la observación de una tendencia actual. Numerosos artistas jóvenes están incursionando en la música urbana, descubriendo que es un género dominante. Dada esta circunstancia, necesitan información y orientación para comprender y adoptar este estilo musical. Este perfil representa a aquellos artistas que desean incorporar la música urbana en su repertorio y buscar recursos y conocimiento específicos.
+
+    Este perfil se enfoca en artistas emergentes, basado en la observación de una tendencia actual. Numerosos artistas jóvenes están incursionando en la música urbana, descubriendo que es un género dominante. Dada esta circunstancia, necesitan información y orientación para comprender y adoptar este estilo musical. Este perfil representa a aquellos artistas que desean incorporar la música urbana en su repertorio y buscar recursos y conocimiento específicos.
 
 * Criterio 2: Adultos mayores (más de 40 Años)
-El segundo perfil se dirige a personas mayores de 40 años que pueden sentirse desconectadas de la música contemporánea y deseen reaproximarse a la música juvenil. Este grupo representa a individuos que pueden haber perdido el vínculo con la música urbana debido a la brecha generacional. Nuestro objetivo es brindarles recursos y contenido que les permitan reconectar con este género musical, adaptándolo a sus preferencias y experiencias.
+
+    El segundo perfil se dirige a personas mayores de 40 años que pueden sentirse desconectadas de la música contemporánea y deseen reaproximarse a la música juvenil. Este grupo representa a individuos que pueden haber perdido el vínculo con la música urbana debido a la brecha generacional. Nuestro objetivo es brindarles recursos y contenido que les permitan reconectar con este género musical, adaptándolo a sus preferencias y experiencias.
 
 * Criterio 3: Estudiantes amantes de la música urbana
-El tercer perfil se orienta hacia estudiantes que disfrutan de la música urbana chilena. Este perfil es más diverso y abarca a aquellos que ya tienen interés en este estilo musical. Reconocemos que la música urbana atrae a una audiencia variada en términos de edad y antecedentes. Apreciando que la música no tiene límites de edad, deseamos proporcionar contenido e información relevante para estudiantes y jóvenes que buscan profundizar en este estilo.
+
+    El tercer perfil se orienta hacia estudiantes que disfrutan de la música urbana chilena. Este perfil es más diverso y abarca a aquellos que ya tienen interés en este estilo musical. Reconocemos que la música urbana atrae a una audiencia variada en términos de edad y antecedentes. Apreciando que la música no tiene límites de edad, deseamos proporcionar contenido e información relevante para estudiantes y jóvenes que buscan profundizar en este estilo.
 
 La elección de estos tres perfiles de usuario se basa en la necesidad de abordar diferentes necesidades y preferencias. Considerando factores como la edad, el nivel de interés y las necesidades específicas de cada grupo, estamos seguros de que nuestra plataforma podrá cumplir con las expectativas de una audiencia diversa. Nuestra misión es crear un espacio donde todos, desde artistas emergentes hasta aquellos que deseen reconectarse con la música urbana, encuentren recursos y contenido pertinentes que satisfagan sus necesidades musicales.
 
