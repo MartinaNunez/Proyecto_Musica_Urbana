@@ -30,7 +30,7 @@ Nuestro identificador gráfico también refleja nuestros conceptos y lo que dese
 
 Creemos que las imágenes, el nombre, el estilo de fuente elegido, los gráficos y la paleta de colores contribuyen a mantener la atención del usuario. Esperamos que nuestra selección atraiga a aquellas personas que buscan una experiencia más inmersiva en lugar de simplemente información. Queremos que nuestro sitio sea un paso hacia la participación activa.
 
-Toda la información mencionada anteriormente se detalla de manera más amplia en las carpetas de “Antecedentes y referentes” y “Manual de marca acotado”.
+Toda la información mencionada anteriormente se detalla de manera más amplia en las carpetas de “Antecedentes y referentes” e “Identidad visual”.
 
 ## Prototipado: 
 
