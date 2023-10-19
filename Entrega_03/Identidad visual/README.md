@@ -7,7 +7,7 @@ Como grupo, presentamos nuestra propuesta "Ultra Pegados". El término "Ultra" p
 
 * __Identificador gráfico:__
 
-![identificado-gráfico](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_03/Identidad%20visual/Im%C3%A1genes/IDENTIFICADOR%20GR%C3%81FICO.jpeg)
+    ![identificado-gráfico](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_03/Identidad%20visual/Im%C3%A1genes/IDENTIFICADOR%20GR%C3%81FICO.jpeg)
 
     Nuestro identificador gráfico incluye elementos reconocibles para nuestros User Personas, ya que forman parte de su vida cotidiana. En primer lugar, destacamos las montañas, que representan la cordillera chilena y simbolizan a nuestro país. En el centro, se encuentran edificios que representan lo urbano, las calles de Santiago, la ciudad central del país y la cuna de este género musical. Por último, nuestro nombre de la página se encuentra en forma de aura para que nuestro identificador gráfico sea fácilmente reconocible.
 
