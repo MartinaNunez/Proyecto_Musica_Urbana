@@ -10,8 +10,6 @@ En cuanto a los antecedentes y referentes, como grupo hemos identificado un tota
 
 * Finalmente, consideramos [Condé Nast Traveler](https://www.traveler.es/experiencias/articulos/mapa-canciones-mas-valiosas-reproducidas-en-cada-pais-mas-beneficio/20881), donde apreciamos la claridad y precisión en la presentación de la información, sin elementos distractivos. La navegación es sencilla, y la forma de presentar la información es directa. Queremos basarnos en esta página, tanto en el tamaño y la disposición de los elementos como en la inclusión de imágenes y gráficos. El mapa que presentan nos parece atractivo y colorido, y creemos que se puede adaptar a nuestra paleta de colores para lograr un buen resultado en nuestro sitio web. Incluso podríamos combinar este estilo de mapa con el de The Pudding, si es posible.
 
-![mapa-condé]("C:\Users\marti\Downloads\MAPA CONDÉ NAST TRAVELER.png")
-
 ## Biblografía
 * [Cano, M. (2021). El mapa con las canciones más valiosas de cada país. Condé Nast Traveler Spain.](https://www.traveler.es/experiencias/articulos/mapa-canciones-mas-valiosas-reproducidas-en-cada-pais-mas-beneficio/20881)
 * [González, L. (2022). Viaje musical: estas son las canciones más escuchadas de 2022. Condé Nast Traveler Spain.](https://www.traveler.es/articulos/canciones-mas-escuchadas-de-2022-spotify)
