@@ -1,6 +1,5 @@
 # Prototipado de baja fidelidad
 
-
 El modelo para la página es de tipo jerárquica mixta, lo que permite una navegación lineal o la selección de categorías mediante el menú desplegable. La ventaja de este tipo de página es que el usuario tiene un camino recomendado, pero al mismo tiempo puede utilizar atajos para acceder fácilmente a la información. La carga de los elementos de la página es rápida y facilita la lectura del usuario, ya que solo debe desplazarse hacia abajo para acceder a la información.
 
 * En la página de inicio, se encuentran las siluetas de los tres artistas urbanos chilenos con más reproducciones. Justo debajo de ellos se encuentra el título de la página, "Ultra Pegados", acompañado de un subtítulo introductorio. Un poco más abajo, está el reproductor de Spotify que enlaza a la canción chilena más reproducida a nivel mundial. Este incluye un texto con el nombre del artista, el título de la canción y la cantidad de reproducciones.
