@@ -58,5 +58,5 @@ Finalmente, en la carpeta de este repositorio se encuentran los requisitos míni
 * Carpeta con los antecedentes y referentes 
 * Carpeta con nuestros análisis críticos personales 
 
-Además, nuestro video de la presentación está disponible en Youtube.
+Además, nuestro video de la presentación está [disponible en Youtube.](https://youtu.be/Iobuz5nT-6c)
 
