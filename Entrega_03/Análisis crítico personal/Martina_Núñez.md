@@ -1,4 +1,4 @@
-# Analísis crítico personal - Martina Núñez Quiroz
+# Análisis crítico personal - Martina Núñez Quiroz
 
 Con respecto a la tercera entrega de nuestro proyecto y el trabajo que realizamos en conjunto con mis compañeros, puedo responder lo siguiente:
 
