@@ -4,4 +4,4 @@ En esta carpeta, se encuentra el archivo CSV que utilicé para mi sección del p
 
 Dado que contábamos con tres bases de datos separadas, decidimos unirlas para esta entrega, creando así una única base de datos con la que todos estamos trabajando para nuestras visualizaciones.
 
-En mi caso, mi interés radica en utilizar la base de datos final para analizar las reproducciones por país, lo que nos permitirá identificar qué países muestran un mayor interés en la música urbana.
+En mi caso, mi interés radica en utilizar la base de datos final para analizar las reproducciones por país, lo que nos permitirá identificar qué países muestran un mayor interés en la música urbana chilena.
