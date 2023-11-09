@@ -9,7 +9,7 @@ Es fundamental recordar que nuestros datos son extraídos de [Spotify Charts.](h
 Finalmente, en las carpetas de este repositorio, se incluyen los siguientes requisitos mínimos para la entrega:
 
 * Carpeta por cada integrante en las que se incluyen:
-1. README.md con  el proceso, las decisionesy las preguntas.
+1. README.md con el proceso, las decisiones y las preguntas.
 1. Ficha técnica
 1. Base de datos utilizada
 1. Visualización
