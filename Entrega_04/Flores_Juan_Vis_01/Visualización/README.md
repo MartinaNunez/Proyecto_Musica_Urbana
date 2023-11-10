@@ -8,6 +8,6 @@ Se optó por el título "Espacios utilizados" y no "Canciones en el top" porque 
 ## Base de datos
 Venimos trabajando con la misma base de datos desde el inicio porque Spotify es la app de reproducción musical más usada y que tiene sus datos de libre acceso. En entregas anteriores tuvimos que eliminar todas las canciones de artistas de otros países que estuvieran en el top 200 solo para quedarnos con los chilenos. Por último unificamos y estandarizamos las bases de cada año para que fueran más fáciles de utilizar.
 ## Preguntas
-¿En qué año fue que explotó el fénomeno de la música urbana chileana en otros países?
-¿Cuál fue el peor año de la música urbana chilena en el exterior?
-¿Cuánto ha crecido el fénomeno entre los años 2020 y 2022?
+*¿En qué año fue que explotó el fénomeno de la música urbana chileana en otros países?
+*¿Cuál fue el peor año de la música urbana chilena en el exterior?
+*¿Cuánto ha crecido el fénomeno entre los años 2020 y 2022?
