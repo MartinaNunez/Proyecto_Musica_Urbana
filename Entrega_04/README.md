@@ -18,4 +18,4 @@ Finalmente, en las carpetas de este repositorio, se incluyen los siguientes requ
 * Carpeta con nuestro PPT de presentación
 * Carpeta con nuestra base de datos final
 
-Además, el video de nuestra presentación está disponible en Youtube.
+Además, el video de nuestra presentación está [disponible en Youtube.](https://www.youtube.com/watch?v=vD7J3bNOHgc)
