@@ -1,6 +1,6 @@
 # Base de datos
 
-En esta carpeta se encuentra nuestra base de datos final, la cual fue previamente limpiada y unida en las entregas anteriores. Esta base de datos es la que utilizamos para crear nuestras visualizaciones atómicas.
+En esta carpeta, se encuentra nuestra base de datos definitiva, la cual fue previamente depurada y consolidada en entregas anteriores. En esta base de datos, los artistas se encuentran separados a pesar de sus colaboraciones, permitiendo considerar a cada uno de manera individual en nuestras visualizaciones atómicas.
 
-Es importante recordar que nuestros datos provienen de [Spotify Charts](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06) 
+Cabe destacar que nuestros datos son obtenidos de [Spotify Charts](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06) 
 
