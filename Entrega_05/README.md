@@ -8,11 +8,11 @@ Cabe recordar que nuestro proyecto se centra en la investigación y análisis de
 
 Dentro de este repositorio, se encuentran los requisitos esenciales para la entrega, que incluyen:
 
-* README.md principal: Proporciona información general sobre la entrega.
-* Carpeta de análisis: Contiene documentos relacionados con la hipótesis, preguntas e información destacada.
-* Carpeta de propuesta: Incluye elementos de diseño, información conceptual y detalles sobre la interacción planeada.
-* Carpeta de propuesta de visualizaciones atómicas: Presenta nuestra visión para las visualizaciones específicas del proyecto.
-* Carpeta de comentarios: Incluye reflexiones críticas y textos complementarios.
-* Carpeta de decisiones y elementos visuales: Documenta las decisiones tomadas y elementos visuales seleccionados.
+* README.md principal que incluye información general de la entrega.
+* Carpeta con el análisis - hipótesis - preguntas - titular.
+* Carpeta con propuesta - diseño - información - interacción.
+* Carpeta con propuesta de visualizaciones atómicas.
+* Carpeta con comentarios - crónica - textos.
+* Carpeta con decisiones y elementos visuales
 
 Adicionalmente, en nuestro repositorio principal del proyecto, hallarás la carpeta "docs" para visualizar nuestra versión beta. Asimismo, puedes acceder a nuestro video de presentación en YouTube para obtener una visión más completa del proyecto.
