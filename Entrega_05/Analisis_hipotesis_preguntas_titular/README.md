@@ -17,5 +17,3 @@ En nuestra versión beta, los usuarios pueden abordar las siguientes preguntas a
 1. ¿Cuál es la canción que ha registrado mayor reproducción recientemente?
 
 Para presentar nuestro trabajo, consideramos esencial contar con un titular que capture el interés de nuestros usuarios y los invite a explorar nuestra página. Como grupo, hemos llegado a la propuesta de: "Ultrapegados: El Ascenso Internacional de la Música Urbana Chilena". Este titular nos permite adentrarnos en la narrativa principal de nuestro proyecto, que se centra en la evolución de este género musical, explorando su trayectoria, éxito, desafíos y, sobre todo, su alcance a nivel internacional. A lo largo de la historia, nos proponemos analizar los datos recopilados, examinando las reproducciones de las canciones, identificando las más populares, analizando la evolución de los artistas y evaluando el impacto de la pandemia en su crecimiento.
-
-## Propuesta de narrativa, diseño de información y diseño de interacción 
