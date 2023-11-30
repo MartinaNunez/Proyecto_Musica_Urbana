@@ -10,7 +10,7 @@ Cabe recordar que nuestro proyecto se centra en la investigación y análisis de
 | Redacción página + crónica|            |              |      X        |
 | Creación de CSS|       X       |        X      |              |
 | Correción de gráficos| X | X | |
-| Creación de JavaScript | | X | |
+| Creación de JavaScript | X | X | |
 | Redacción GitHub| | | X |
 | Orden GitHub| | | X|
 
