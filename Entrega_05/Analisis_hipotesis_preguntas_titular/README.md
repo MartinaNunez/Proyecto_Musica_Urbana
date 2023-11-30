@@ -1,6 +1,6 @@
 # Análisis - hipótesis - preguntas - titular
 
-## Propuesta de historia, qué queremos contar (incluye el análisis de hipótesis, preguntas a responder y titular del reportaje y comentario sobre nuestra evolución)
+## Propuesta de historia: ¿qué queremos contar?
 
 Como equipo, hemos dedicado todo el semestre a nuestro proyecto centrado en la música urbana chilena. Desde el inicio, planteamos la hipótesis de que "Las redes sociales desempeñan un papel fundamental en el auge de la música urbana chilena". Sin embargo, debido a la escasez de datos e información, decidimos modificar nuestra hipótesis a: "La música urbana chilena ha trascendido sus fronteras locales para convertirse en un fenómeno de alcance internacional".
 
