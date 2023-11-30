@@ -12,7 +12,6 @@ Cabe recordar que nuestro proyecto se centra en la investigación y análisis de
 | Correción de gráficos| X | X | |
 | Creación de JavaScript | X | X | |
 | Redacción GitHub| | | X |
-| Orden GitHub| | | X|
 
 #
 
