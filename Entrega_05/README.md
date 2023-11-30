@@ -6,9 +6,13 @@ Cabe recordar que nuestro proyecto se centra en la investigación y análisis de
 
 | Elemento | Juan Flores | Jorge Gálvez | Martina Núñez |
 |:---------|:------------|:-------------|:--------------|
-| HTML + redcción de la página y GitHub|              |              |        X     |
-| CSS + corrección de gráficos y complemento de redacción      |       X       |              |              |
-| JavaScript + corrección diseño página        |              |        X      |              |
+| Creación de HTML|              |              |        X     |
+| Redacción página + crónica|            |              |      X        |
+| Creación de CSS|       X       |        X      |              |
+| Correción de gráficos| X | X | |
+| Creación de JavaScript | | X | |
+| Redacción GitHub| | | X |
+| Orden GitHub| | | X|
 
 #
 
