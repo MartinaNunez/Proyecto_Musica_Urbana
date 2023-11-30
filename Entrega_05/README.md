@@ -4,6 +4,12 @@ Para esta fase de entrega, como equipo, nos enfocamos en el desarrollo de la ver
 
 Cabe recordar que nuestro proyecto se centra en la investigación y análisis de la música urbana chilena. En esta etapa, nos concentramos en recopilar datos provenientes del [Spotify Chart](https://charts.spotify.com/charts/view/regional-global-weekly/2020-02-06) para construir una sólida base de datos. Esta base nos permite obtener información pertinente en relación con nuestra hipótesis inicial: "La música urbana chilena ha trascendido sus fronteras locales para convertirse en un fenómeno de alcance internacional."
 
+| Elemento | Juan Flores | Jorge Gálvez | Martina Núñez |
+|:---------|:------------|:-------------|:--------------|
+| HTML + redcción de la página y GitHub|              |              |        X     |
+| CSS + corrección de gráficos y complemento de redacción      |       X       |              |              |
+| JavaScript + corrección diseño página        |              |        X      |              |
+
 #
 
 Dentro de este repositorio, se encuentran los requisitos esenciales para la entrega, que incluyen:
