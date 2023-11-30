@@ -13,4 +13,4 @@ Nuestra propuesta narrativa se centra en la evolución de este género musical, 
 1. __Expansión Internacional:__ Ofrece información y un gráfico interactivo que ilustra cómo pasamos de tener solo 2 canciones en el top a contar con 51.
 * Consideramos muy importante que el usuario también tenga un pequeño contexto de algunos de los artistas presentes en este top, por lo que creamos un carrusel con fotos e información esencial para que puedan complementarse.
 * Casi finalizando, el usuario se encuentra con un mapa que complementa toda nuestra webstory, donde podrá ver por país la canción más escuchada de manera interactiva.
-De igual manera, en la parte final de la página se encuentra una frase conclusiva para "concluir" con el reportaje, donde se invita a escuchar una playlist de Spotify en la que se encuentran canciones presentes en el top y puedan complementarse con esta historia de evolución
+De igual manera, en la parte final de la página se encuentra una frase para "concluir" con el reportaje, donde se invita a escuchar una playlist de Spotify en la que se encuentran canciones presentes en el top y puedan complementarse con esta historia de evolución
