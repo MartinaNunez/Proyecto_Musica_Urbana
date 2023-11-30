@@ -18,12 +18,12 @@ Este gráfico se ubica en la sección de _"Trayectoria y Éxito Continuo"_, comp
 
 ![gráfico3](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_05/Propuesta_visualizaciones_atomicas/Imagenes/gr%C3%A1ficomartina.png?raw=true) 
 
-Este gráfico está presente en la sección de _"Desafíos y Resiliencia"_. Es claro y esencial para explicar lo sucedido en 2021, cuando las reproducciones se limitaron a Chile. Muestra de manera evidente ese aspecto, vinculándolo a la crisis de la pandemia y cómo esto afectó el trabajo de los artistas chilenos, generando pequeñas complicaciones en sus proyectos musicales. Con este gráfico buscamos que las personas vean esa limitación y comprendan cómo, de estar presentes en varios países en 2022, estuvimos antes solo solo en Chile, para finalmente alcanzar altas reproducciones en muchas otras naciones.
+Este gráfico está presente en la sección de _"Desafíos y Resiliencia"_. Es claro y esencial para explicar lo sucedido en 2021, cuando las reproducciones se limitaron a Chile. Muestra de manera evidente ese aspecto, vinculándolo a la crisis de la pandemia y cómo esto afectó el trabajo de los artistas chilenos, generando pequeñas complicaciones en sus proyectos musicales. Con este gráfico buscamos que las personas vean esa limitación y comprendan cómo, de estar presentes en varios países en 2022, estuvimos antes solo en Chile, para finalmente alcanzar altas reproducciones en muchas otras naciones.
 * __Gráfico de barras 4: Distribución de canciones por año y país__
 
 ![gráfico4](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_05/Propuesta_visualizaciones_atomicas/Imagenes/gr%C3%A1ficojuan3.png?raw=true) 
 
-Este gráfico de barras se complementa con la sección de _"Expansión Internacional"_. Los datos hablan por sí solos, mostrando cómo, de tener solo 2 canciones en el top en un año, logramos encontrar 51 canciones, siendo fundamentales para la expansión internacional. Esperamos que los usuarios comprendan la relación y el análisis a través de las barras, los colores y los países, concluyendo que se presenta una expansión internacional a lo largo de las barras y los años.
+Este gráfico de barras se complementa con la sección de _"Expansión Internacional"_. Los datos hablan por sí solos, mostrando cómo, de tener solo 2 canciones en el top en un año, logramos encontrar 51 canciones, siendo fundamentales para la expansión internacional. Esperamos que los usuarios comprendan la relación y el análisis a través de los colores y los países, concluyendo que se presenta una expansión internacional a lo largo de las barras y los años.
 * __Mapa: Reproducciones de canciones urbanas chilenas por el mundo__
 ![mapa](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/Entrega_05/Propuesta_visualizaciones_atomicas/Imagenes/gr%C3%A1ficojorge.png?raw=true) 
 
