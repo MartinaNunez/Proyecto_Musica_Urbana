@@ -23,5 +23,6 @@ Dentro de este repositorio, se encuentran los requisitos esenciales para la entr
 * Carpeta con propuesta de visualizaciones atómicas.
 * Carpeta con comentarios - crónica - textos.
 * Carpeta con decisiones y elementos visuales
+* Carpeta con el PDF de la presentación
 
 Adicionalmente, en nuestro repositorio principal del proyecto, se encuentra la carpeta "docs" para visualizar nuestra versión beta. Asimismo, se puede acceder a nuestro video de presentación en YouTube para obtener más información del proyecto y el proceso.
