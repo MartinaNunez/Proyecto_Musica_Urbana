@@ -1,4 +1,4 @@
-# Propuesta de diseño, información e interacción
+# Propuesta de diseño de información e interacción
 
 A lo largo de nuestro proyecto, hemos fundamentado nuestra webstory en nuestra hipótesis: "La música urbana chilena ha trascendido sus fronteras locales para convertirse en un fenómeno de alcance internacional". Nuestra narrativa se basa y relaciona con esta premisa, buscando responder a nuestras preguntas iniciales y respaldar todo mediante datos sólidos.
 
