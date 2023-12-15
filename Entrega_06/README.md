@@ -22,4 +22,4 @@ Dentro de este repositorio, se encuentran los requisitos esenciales para la entr
 * Carpeta con información de las visualizaciones atómicas.
 * Carpeta con decisiones y elementos visuales
 
-Adicionalmente, en nuestro repositorio principal del proyecto, se encuentra la carpeta "docs" para visualizar nuestra versión beta que [ya esta disponible](https://martinanunez.github.io/Proyecto_Musica_Urbana/). 
+Adicionalmente, en nuestro repositorio principal del proyecto, se encuentra la carpeta "docs" para visualizar nuestra versión final que [ya esta disponible](https://martinanunez.github.io/Proyecto_Musica_Urbana/). 
