@@ -12,7 +12,7 @@ El único aspecto que modificamos en esta entrega final fue el diseño del nombr
 
 * __Identificador gráfico/logo:__
 
-![logo](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/Imagenes/FAVICON%20-%20Ultrapegados.jpeg?raw=true)
+![logo](https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/logo.jpeg)
 
 Nuestro identificador gráfico fue el único que cambiamos dentro de esta entrega, ya que consideramos que el anterior no se adaptaba mucho a nuestra idea y estética. En cambio, este tiene mucha relación. Básicamente, queríamos algo sencillo pero que dijera algo clave. Al ser una página que habla de música urbana, lo relacionamos con las barritas. Pero esas mismas barras forman una figura como de montaña, las cuales hacen alusión a la cordillera para así provocar cercanía con nuestros usuarios.
 
