@@ -16,7 +16,6 @@
     <button class="boton" data-target="narracion" onclick="iniciarTecleo()">Comencemos...</button>
 </header>
 
-
 <body>
     <section class="full-height narracion" id="narracion">
         <div>
@@ -39,7 +38,7 @@
         <button class="boton" data-target="timeline">El comienzo</button>
     </section>
 
-    <section id="timeline">
+    <section class="timeline" id="timeline">
 
         <div class="tl-item">
 
@@ -99,7 +98,6 @@
                     Colombia, España, Guatemala, Honduras, México, Perú y el top Global </p>
             </div>
         </div>
-
         <button class="botonA" data-target="unPocoDeTexto">Primeros pasos</button>
     </section>
 
@@ -119,34 +117,33 @@
                     realmente en aquellos años? ¿Por qué solo dos artistas? ¿Cómo se gestaron los demás talentos
                     que hoy son tan reconocidos?</p>
             </div>
-            <table>
-                <tr>
-                    <td aling="left">
-                        <iframe id="grafico-izq" width="560" height="315"
-                            src="https://www.youtube.com/embed/mD-zS8ZCl8c?si=0eouVzd7Tk315278"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
-                    </td>
-                    <td width="200">
 
-                    </td>
-                    <td aling="right">
-                        <iframe id="grafico-der" width="560" height="315"
-                            src="https://www.youtube.com/embed/piG9_LCazpQ?si=-Wi69L7RK9nqViio"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-wrxite; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
-                    </td>
-                </tr>
+                <table>
+                    <tr>
+                        <td aling="left">
+                            <iframe id="grafico-izq" width="560" height="315"
+                                src="https://www.youtube.com/embed/mD-zS8ZCl8c?si=0eouVzd7Tk315278"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </td>
+                        <td width="200">
 
-            </table>
-            <button class="boton" data-target="timeline">Primero de Muchos</button>
-        </div>
-
+                        </td>
+                        <td aling="right">
+                            <iframe id="grafico-der" width="560" height="315"
+                                src="https://www.youtube.com/embed/piG9_LCazpQ?si=-Wi69L7RK9nqViio"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-wrxite; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <button class="boton" data-target="timeline2">El Primero de Muchos</button>
     </section>
 
-    <section id="timeline">
+    <section class="timeline" id="timeline2">
 
         <div class="tl-item">
 
@@ -267,10 +264,10 @@
                     </div>
                 </td>
                 <td>
-                    <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
-                    <div id="grafico_02_juan" onload="foo">    
+                    <div class="contenedor-grafico">
+                        <iframe class="grafico-der"
+                            src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_juan_1.html"></iframe>
                     </div>
-                    <iframe class="grafico-der"title="grafico1" src="grafico_juan_2.html"></iframe>
                 </td>
             </tr>
         </table>
@@ -290,14 +287,14 @@
     <section id="transicion3" class="full-height transicion3 flex-center">
     </section>
 
-    <section>
-        <div id="el_apagon" class="full-height el_apagon flex-center">
+    <section id="el_apagon" >
+        <div class="full-height el_apagon flex-center">
             <table>
                 <tr>
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/GRÁFICOS/grafico_martina.html"></iframe>
+                                src="C:\Users\maste\OneDrive\Desktop\Prueba slider\graficos\grafico_martina.html"></iframe>
                         </div>
                     </td>
                     <td>
@@ -339,7 +336,7 @@
                 </tr>
             </table>
         </div>
-        <div>
+        <div id="transicion">
             <button class="boton" data-target="desafios-resilencia">Desafios y Resiliencia</button>
         </div>
     </section>
@@ -363,7 +360,7 @@
                             <h1 class="texto-izq">Expansión</h1>
                             <p class="texto-izq">A lo largo de nuestra exploración, hemos detallado el increíble proceso
                                 y el trabajo incansable de nuestros artistas urbanos. De contar con solo dos
-                                representantes en el top de Spotify hemos evolucionado a tener 52, superando desafíos
+                                representantes en el top de Spotify, hemos evolucionado a tener 52, superando desafíos
                                 como el estallido social y la pandemia, que inicialmente se presentaron como obstáculos
                                 para nuestro género musical. No obstante, estos obstáculos no impidieron que los
                                 artistas chilenos persiguieran sus sueños.</p>
@@ -395,25 +392,24 @@
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/GRÁFICOS/grafico_juan_2.html"></iframe>
+                                src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_juan_3.html"></iframe>
                         </div>
                     </td>
                 </tr>
             </table>
+            <button class="boton" data-target="desafios-resilencia2" >Un camino duro</button>
         </div>
-        <div>
-            <button class="boton" data-target="expansion">Un camino duro </button>
-        </div>    
+        
     </section>
 
-    <section class="full-height desafios-resilencia flex-center" id="desafios-resilencia">
-        <div id="desafios-resilencia" class="full-height desafios-resilencia flex-center">
+    <section class="desafios-resilencia" id="desafios-resilencia2">
+        <div class="full-height desafios-resilencia flex-center">
             <table>
                 <tr>
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-izq"
-                                src="https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/GRÁFICOS/grafico_juan_3.html">
+                                src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_martina.html">
                             </iframe>
                         </div>
                     </td>
@@ -423,27 +419,32 @@
                             <p class="texto-der"> El camino hacia el éxito no siempre es un trayecto fácil; a menudo
                                 implica superar obstáculos y comenzar desde abajo. Es en esos momentos difíciles donde
                                 nuestros artistas urbanos favoritos han forjado su camino.</p>
-                                <p class="texto-der">El reconocimiento para los artistas chilenos ha sido una travesía complicada, como hemos
+                            <p class="texto-der">El reconocimiento para los artistas chilenos ha sido una travesía
+                                complicada, como hemos
                                 analizado en los gráficos anteriores que muestran la evolución en el top de Spotify de
                                 2020 a 2022, donde su presencia experimentó un notable aumento. Sin embargo, la historia
                                 no siempre ha sido tan favorable para la música chilena.</p>
-                                <p class="texto-der">En 2020, nuestras reproducciones se expandieron hasta llegar a España, pero de repente
+                            <p class="texto-der">En 2020, nuestras reproducciones se expandieron hasta llegar a España,
+                                pero de repente
                                 todo cambió en 2021. El auge y las reproducciones de las canciones chilenas se limitaron
                                 a Chile. ¿Pero qué sucedió realmente en ese año?</p>
-                                <p class="texto-der">Contextualicemos. Veníamos de un estallido social que comenzó casi a fines de 2019,
+                            <p class="texto-der">Contextualicemos. Veníamos de un estallido social que comenzó casi a
+                                fines de 2019,
                                 donde las personas estaban sensibilizadas por los problemas sociales y políticos. Sin
                                 embargo, a principios de 2020, la llegada del Covid-19 apagó a Chile y al mundo entero.
                                 Las reproducciones de canciones chilenas en Spotify eran de temas lanzados antes de
                                 2020, como "Tak Tiki Tak" de Harry Nach, lanzada en 2019. El éxito que experimentó en
                                 2020 se debió a las redes sociales, especialmente TikTok, donde se utilizó para crear
                                 tendencias. Pero, no eran realmente temas "actuales".</p>
-                                <p class="texto-der">El año 2021 marcó un verdadero desafío, con las reproducciones limitadas en Chile. La
+                            <p class="texto-der">El año 2021 marcó un verdadero desafío, con las reproducciones
+                                limitadas en Chile. La
                                 pandemia afectó a todos, incluyendo a nuestros artistas. Producir y lanzar una canción
                                 se volvió mucho más difícil. La falta de equipos adecuados en sus hogares para grabar
                                 canciones y videos limitó la calidad de su trabajo. Muchos tuvieron que conformarse con
                                 grabar usando los micrófonos de sus teléfonos móviles. A pesar de estas limitaciones, su
                                 esfuerzo fue constante y valioso.</p>
-                                <p class="texto-der">Aunque no contaban con grandes colaboraciones para destacar fuera de Chile, su audiencia
+                            <p class="texto-der">Aunque no contaban con grandes colaboraciones para destacar fuera de
+                                Chile, su audiencia
                                 local los respaldaba, ayudándolos a mantenerse dentro del top de Spotify en Chile.</p>
 
                             </p>
@@ -451,8 +452,9 @@
                     </td>
                 </tr>
             </table>
+            <button class="boton" data-target="final">El fin de un camino</button>
         </div>
-        <button class="boton" data-target="final">El fin de un camino</button>
+        
     </section>
 
     <section class="full-height final flex-center" id="final">
@@ -469,37 +471,42 @@
                                 como el estallido social y la pandemia, que inicialmente se presentaron como obstáculos
                                 para nuestro género musical. No obstante, estos obstáculos no impidieron que los
                                 artistas chilenos persiguieran sus sueños.</p>
-                                <p class="texto-izq">El año 2020 marcó un escalón crucial para el crecimiento continuo de este género
+                            <p class="texto-izq">El año 2020 marcó un escalón crucial para el crecimiento continuo de
+                                este género
                                 musical. De solo contar con dos canciones en el top de Spotify, hemos llegado a tener
                                 entre 3 y 51 canciones, no solo en Chile, sino también en otros países de Latinoamérica.
                                 Los fanáticos chilenos desempeñaron un papel esencial al mantener la presencia de sus
                                 artistas favoritos en 2021 dentro de Chile, lo que a su vez condujo a colaboraciones
                                 internacionales con grandes artistas, facilitando la expansión global de este género
                                 musical.</p>
-                                <p class="texto-izq">Lo que antes era considerado un género de nicho ahora se ha transformado en un estilo
+                            <p class="texto-izq">Lo que antes era considerado un género de nicho ahora se ha
+                                transformado en un estilo
                                 que realmente tiene impacto a nivel mundial. Los artistas chilenos han llevado sus giras
                                 más allá de las fronteras de Chile, como lo hizo Pailita con su tour "Soñando
                                 Despierto", visitando países como Perú, Argentina, Uruguay, entre otros. Su éxito se
                                 consolidó con "Ultra solo" junto a Polimá, y el remix con Feid y De la Ghetto, que
                                 actualmente acumula 205 millones de reproducciones en YouTube.</p>
-                                <p class="texto-izq">Hoy en día, no solo escuchamos a Pailita y Polimá, "Tak Tiki Tak" o "Ultra solo" en el
+                            <p class="texto-izq">Hoy en día, no solo escuchamos a Pailita y Polimá, "Tak Tiki Tak" o
+                                "Ultra solo" en el
                                 top, sino que contamos con una variedad de artistas, con diferentes canciones y
                                 colaboraciones que les han permitido mantenerse en la cima. El desarrollo constante como
                                 artista es evidente a lo largo de los años, y queda claro que su presencia en el top y
-                                su impacto internacional no son fruto del azar, sino del trabajo constante y dedicado.</p>
+                                su impacto internacional no son fruto del azar, sino del trabajo constante y dedicado.
+                            </p>
                             </p>
                         </div>
                     </td>
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/GRÁFICOS/grafico_jorge.html"></iframe>
+                                src="C:\Users\maste\OneDrive\Desktop\Prueba slider\graficos\grafico_jorge.html"></iframe>
                         </div>
                     </td>
                 </tr>
             </table>
+            <boton class="boton" data-target="extra">¡A bacilar!</button>
         </div>
-        <boton class="boton" data-target="extra">¡A bacilar!</button>
+        
     </section>
     <!--    <section class="full-height timeline flex-center" id="timeline">
         <h1> a</h1>
@@ -507,7 +514,8 @@
 
     <section class="full-height extra flex-center" id="extra">
         <div id="el_apagon">
-            <h1>Porque no podemos sacarlos de nuestra cabeza.</h1>
+            <h1>Porque no podemos sacarlos de nuestra cabeza Escucha las mejores canciones de nuestros artistas urbanos
+                chilenos.</h1>
         </div>
         <div id="el_apagon">
             <h1>¡Escucha las mejores canciones de nuestros artistas urbanos chilenos!</h1>
@@ -539,19 +547,15 @@
     -->
 
 
-    <audio id="miAudio" src="https://drive.google.com/file/d/1luKhOspOjB4lda5dorgK_0HU7du7vCzv/view?usp=sharing"
+    <audio id="miAudio" src="C:\Users\maste\OneDrive\Desktop\Prueba slider\images\instrumental_ultrasolo.mp3"
         loop></audio>
     <script src="script.js"></script>
 
     <footer>
-        2023 Ultrapegados. Un grupo compuesto por Martina Nuñez (2do año-4to semestre), Juan Flores (2do año-4to semestre) y Jorge Gálvez (4to año - 9no semestre). Todos los derechos
-        reservados. 
-        Trabajo para el curso Narración Gráfica de No Ficción - Sección de Katherine Páez 
-        Todos los datos fueron sacados de Spotify Charts
-        Link al repositorio <a href="https://github.com/MartinaNunez/Proyecto_Musica_Urbana">aquí</a>
+        2023 Ultrapegados. Un grupo compuesto por Martina Nuñez, Juan Flores y Jorge Gálvez. Todos los derechos
+        reservados.
     </footer>
 </body>
-
 
 <!-- “Hoy es uno de esos días” 
 - 4 de marzo, 2022.
