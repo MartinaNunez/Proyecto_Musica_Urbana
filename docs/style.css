@@ -245,8 +245,12 @@ box-shadow:
   color: white;
 }
 
-#sobre-artistas{
-  background-color: rgb(86, 28, 221);
+#final{
+  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: white;
 }
 #reproducciones-mundo{
   background-color: rgb(194, 25, 104);
