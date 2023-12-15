@@ -165,7 +165,10 @@ function iniciarTecleo() {
 
 
 
-
+// JS graficos 
+window.PlotlyConfig = {MathJaxConfig: 'local'};
+        
+             
 
 
     // var indice = 0;
