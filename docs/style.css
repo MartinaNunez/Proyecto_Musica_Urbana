@@ -238,7 +238,7 @@ box-shadow:
 }
 
 #desafios-resilencia{
-  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png');
+  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png?raw=true');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -246,7 +246,7 @@ box-shadow:
 }
 
 #final{
-  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png');
+  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png?raw=true');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
