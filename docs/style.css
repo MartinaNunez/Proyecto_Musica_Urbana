@@ -236,15 +236,8 @@ box-shadow:
   background-color: #020238;
 }
 
-.desafios-resilencia{
-  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png?raw=true');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  color: white;
-}
-#desafios-resilencia2{
-  background-image: url('https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/invertida.png?raw=true');
+.desafios-resilencia {
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/invertida.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
