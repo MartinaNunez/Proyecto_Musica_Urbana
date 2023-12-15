@@ -1,0 +1,452 @@
+/*definiciones generales: ajustes de pantalla y texto del codigo */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/*definiendo los botones en pantalla */
+.boton {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(184, 17, 199);
+  background-image: linear-gradient(
+    to top bottom,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(0, 0, 0, 0)
+  );
+  box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.boton:hover {
+  background-color: rgb(255, 0, 221);
+  }
+.boton:active {
+box-shadow:
+  inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+  inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+/*Botones para pantallas con efecto hover over*/
+.botonAx {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  background-color: rgb(184, 17, 199);
+
+  box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.botonA {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  background-color: rgb(184, 17, 199);
+
+  box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.botonA:hover {
+  background-color: rgb(92, 2, 77);
+}
+
+.botonA:active {
+  box-shadow:
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+      inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+/*Alineación de textos*/
+.texto-izq {
+  float: left;
+  margin-top: 10px;
+  margin-right: 10%;
+  margin-left: 6%;
+}
+
+.texto-der {
+  float: right;
+  margin-top: 10px;
+  margin-right: 6%;
+  margin-left: 10%;
+}
+
+/*Alineación de imagenes y graficos*/
+.grafico-izq {
+  text-align: left;
+  margin: 0;
+  width: 900px;
+  height: 700px;
+  margin-left: 50px;
+}
+
+.grafico-der {
+  text-align: right;
+  margin: 0;
+  width: 900px;
+  height: 700px;
+  margin-right: 50px;
+}
+
+.contenedor-texto-grafico {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  height: 300px;
+}
+
+.contenedor-texto,
+.contenedor-grafico {
+  flex: 1;
+  /* Ambos ocupan el mismo espacio disponible */
+  /* Id secciones, fondos, margenes, etc... */
+}
+
+.texto_grande{
+  text-align: center;
+  text-size-adjust: 55px;
+  font-size: large;
+  margin-bottom: 10%;
+  padding: 10%;
+}
+
+#introduccion {
+  background-color: rgb(0, 0, 0);
+}
+
+#narracion {
+  background-position: center center;
+  background-size: cover;
+  background-color: black;
+}
+
+#narracion h1 {
+  color: white;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+
+#el_apagon{
+  background-color: black;
+  color:white;  
+}
+#el_apagon h1{
+  color: rgb(179, 0, 196);
+  font-weight: 900;
+}
+
+#unPocoDeTexto{
+  /*background-image: url('C:/Users/maste/OneDrive/Desktop/aprendiendo-css-copia/Sitio-mixto/images/fondo_1.jpg');*/
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/1.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#expansion{
+  width: 100%;
+  height: 100vh;
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/ciudad_siluetas3.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+  background-color: black;
+}
+#transicion{
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/gradient.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#transicion2{
+  background-color: rgb(0, 0, 0);
+}
+#transicion3{
+  background-color: rgb(0, 0, 0);
+}
+#transicion4{
+  background-color: rgb(0, 0, 0);
+}
+#transicion5{
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/etneidarg.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+/*background-image: url('C:\Users\maste\OneDrive\Desktop\Prueba slider\images\1.png');*/
+#trayectoria-exito{
+  background-color: #020238;
+}
+
+#desafios-resilencia{
+  background-image: url('C:/Users/maste/OneDrive/Desktop/Prueba slider/images/invertida.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+}
+
+#sobre-artistas{
+  background-color: rgb(86, 28, 221);
+}
+#reproducciones-mundo{
+  background-color: rgb(194, 25, 104);
+}
+#extra{
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+
+
+/* Codigos tres imagenes*/
+
+#timeline {
+  display: flex;
+  position: relative;
+  background-color: #000;
+
+  .tl-item {
+    position: relative;
+    width: 33.3333%;
+    height: 100vh;
+    min-height: 200px;
+    color: #fff;
+    overflow: hidden;
+    transition: width 0.5s ease;
+
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    &:after {
+      background: transparentize(#cfd4f6, 0.15);
+      opacity: 1;
+      transition: opacity 0.5s ease;
+    }
+
+    &:before {
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 75%);
+      z-index: 1;
+      opacity: 0;
+      transform: translateY(50%);
+      transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+
+    &:hover {
+      width: 40%;
+      /* Ajustado para mostrar solo 3 elementos */
+
+      &:after {
+        opacity: 0;
+      }
+
+      &:before {
+        opacity: 1;
+        transform: translateY(0);
+        transition: opacity 1s ease, transform 1s ease 0.25s;
+      }
+
+      .tl-content {
+        opacity: 1;
+        transform: translateY(0);
+        transition: all 0.75s ease 0.5s;
+      }
+
+      .tl-bg {
+        filter: grayscale(0);
+      }
+    }
+  }
+}
+
+.tl-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  margin: 0 1.618em;
+  top: 55%;
+  opacity: 0;
+
+  h1 {
+    font-family: 'Pathway Gothic One', Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    color: #1779cf;
+    font-size: 1.44rem;
+    font-weight: normal;
+  }
+}
+
+.tl-year {
+  position: absolute;
+  background-color: #B052D9;
+  border-radius: 10px;
+  text-shadow: 1px 1px 1px #000;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 1;
+
+  p {
+    font-family: 'Pathway Gothic One', Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 1.728rem;
+    line-height: 0;
+    margin: 0;
+  }
+}
+
+.tl-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center center;
+  transition: filter 0.5s ease;
+  filter: grayscale(0);
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+
+/* Escritura de texto en vivo 
+
+.wrapper {
+    height: 100vh;
+    
+    display: grid;
+    place-items: center;
+  }
+  
+  .typing {
+    width: 100ch;
+    animation: typing 5s steps(100), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 2em;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+*/
+
+/*
+.boton {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  background-color: rgb(184, 17, 199);
+
+  box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+.boton:hover {
+  background-color: rgb(92, 2, 77);
+}
+
+.boton:active {
+  box-shadow:
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+      inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+*/
