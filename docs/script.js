@@ -157,7 +157,7 @@ function iniciarTecleo() {
     }, 100);
 
 
-    var delayInMilliseconds = 10000; //1000 milisegundos = 1 second
+    var delayInMilliseconds = 1000000; //1000 milisegundos = 1 second
 
     setTimeout(function() {
         //Un segundo para ejecutar
