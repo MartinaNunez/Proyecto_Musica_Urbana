@@ -14,7 +14,9 @@
 <header id="introduccion" class="full-height flex-center">
     <h1> a </h1>
     <img src="https://github.com/MartinaNunez/Proyecto_Musica_Urbana/blob/main/docs/IMAGENES/ultra_gif.gif?raw=true">
-    <button class="boton" data-target="narracion" onclick="iniciarTecleo()">Comencemos...</button>
+    <div class="forced-center-button">
+        <button class="boton" data-target="narracion" onclick="iniciarTecleo()">Comencemos...</button>
+    </div>
 </header>
 
 <body>
@@ -35,8 +37,8 @@
             <h1 id="efecto-tecleo-5">
 
             </h1>
+            <button id="btn-start" class="boton" data-target="timeline">El comienzo</button>
         </div>
-        <button class="boton" data-target="timeline">El comienzo</button>
     </section>
 
     <section class="timeline" id="timeline">
@@ -99,8 +101,8 @@
                     Colombia, España, Guatemala, Honduras, México, Perú y el top Global </p>
             </div>
         </div>
-        <button class="botonA" data-target="unPocoDeTexto">Primeros pasos</button>
     </section>
+    <button class="botonA" data-target="unPocoDeTexto">Primeros pasos</button>
 
     <section id="unPocoDeTexto">
         <div class="full-height unPocoDeTexto">
@@ -142,7 +144,7 @@
             </table>
         </div>
         <button class="boton" data-target="timeline2">El Primero de Muchos</button>
-        
+
     </section>
 
     <section class="timeline" id="timeline2">
@@ -221,8 +223,9 @@
                     En 2022 sigue presente solo en Chile con La del Saxo, Moneyman y Ponle-Remix </p>
             </div>
         </div>
-        <button class="botonA" data-target="expansion">De Chile al Mundo</button>
+
     </section>
+    <button class="botonA" data-target="expansion">De Chile al Mundo</button>
 
     <section id="expansion" class="full-height expansion flex-center">
         <table>
@@ -268,12 +271,14 @@
                 <td>
                     <div class="contenedor-grafico">
                         <iframe class="grafico-der"
-                            src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_juan_1.html"></iframe>
+                            src="GRÁFICOS/grafico_juan_1.html"></iframe>
                     </div>
                 </td>
             </tr>
         </table>
-        <button class="boton" data-target="el_apagon">Días oscuros...</button>
+        <div class="forced-center-button">
+            <button class="boton" data-target="el_apagon">Días oscuros...</button>
+        </div>
     </section>
 
     <section id="transicion" class="full-height transicion flex-center">
@@ -296,7 +301,7 @@
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="C:\Users\maste\OneDrive\Desktop\Prueba slider\graficos\grafico_martina.html"></iframe>
+                                src="GRÁFICOS/grafico_martina.html"></iframe>
                         </div>
                     </td>
                     <td>
@@ -394,12 +399,14 @@
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_juan_3.html"></iframe>
+                                src="GRÁFICOS/grafico_juan_3.html"></iframe>
                         </div>
                     </td>
                 </tr>
             </table>
-            <button class="boton" data-target="desafios-resilencia2">Un camino duro</button>
+            <div class="forced-center-button">
+                <button class="boton" data-target="desafios-resilencia2">Un camino duro</button>
+            </div>
         </div>
 
     </section>
@@ -411,7 +418,7 @@
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-izq"
-                                src="C:\Users\maste\OneDrive\Desktop\aprendiendo-css-copia\Sitio-mixto\graficos\grafico_martina.html">
+                                src="GRÁFICOS/grafico_martina.html">
                             </iframe>
                         </div>
                     </td>
@@ -454,7 +461,9 @@
                     </td>
                 </tr>
             </table>
-            <button class="boton" data-target="final">El fin de un camino</button>
+            <div class="forced-center-button">
+                <button class="boton" data-target="final">El fin de un camino</button>
+            </div>
         </div>
 
     </section>
@@ -501,12 +510,14 @@
                     <td>
                         <div class="contenedor-grafico">
                             <iframe class="grafico-der"
-                                src="C:\Users\maste\OneDrive\Desktop\Prueba slider\graficos\grafico_jorge.html"></iframe>
+                                src="GRÁFICOS/grafico_jorge.html"></iframe>
                         </div>
                     </td>
                 </tr>
             </table>
-            <boton class="boton" data-target="extra">¡A bacilar!</button>
+            <div class="forced-center-button">
+                <button class="boton" data-target="extra">¡A bacilar!</button>
+            </div>
         </div>
 
     </section>
@@ -549,7 +560,7 @@
     -->
 
 
-    <audio id="miAudio" src="C:\Users\maste\OneDrive\Desktop\Prueba slider\images\instrumental_ultrasolo.mp3"
+    <audio id="miAudio" src="IMAGENES/instrumental_ultrasolo.mp3"
         loop></audio>
     <script src="script.js"></script>
 
@@ -559,7 +570,7 @@
     </footer>
 </body>
 
-<!-- “Hoy es uno de esos días” 
+<!-- “Hoy es uno de esos días”
 - 4 de marzo, 2022.
 Polima Westcoast, Pailita
 Artistas chilenos Estrenaron una canción:
