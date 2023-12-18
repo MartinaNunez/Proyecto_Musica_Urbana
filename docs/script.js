@@ -96,7 +96,7 @@ function iniciarTecleo() {
     // Restaurar el texto original y detener el intervalo si ya está en marcha
     //textoTecleo.textContent = '';
     //clearInterval(intervaloTecleo);
-    
+
 
     indiceCaracterActual1 = 0;
     intervaloTecleo1 = setInterval(function () {
@@ -106,7 +106,7 @@ function iniciarTecleo() {
         } else {
             clearInterval(intervaloTecleo1);
         }
-    }, 100); 
+    }, 100);
 
     tope = 100;
     j = 0
@@ -121,7 +121,7 @@ function iniciarTecleo() {
         } else {
             clearInterval(intervaloTecleo2);
         }
-    }, 100); 
+    }, 100);
 
     indiceCaracterActual3 = 0;
     intervaloTecleo3 = setInterval(function () {
@@ -134,7 +134,7 @@ function iniciarTecleo() {
         } else {
             clearInterval(intervaloTecleo3);
         }
-    }, 100); 
+    }, 100);
 
     indiceCaracterActual4 = 0;
     intervaloTecleo4 = setInterval(function () {
@@ -144,7 +144,7 @@ function iniciarTecleo() {
         } else {
             clearInterval(intervaloTecleo4);
         }
-    }, 100); 
+    }, 100);
 
     indiceCaracterActual5 = 0;
     intervaloTecleo5 = setInterval(function () {
@@ -163,12 +163,14 @@ function iniciarTecleo() {
         //Un segundo para ejecutar
       }, delayInMilliseconds);
 
+    let btnStart = document.getElementById('btn-start');
+    btnStart.style.display = 'block';
 
 
-// JS graficos 
-window.PlotlyConfig = {MathJaxConfig: 'local'};
-        
-             
+
+
+
+
 
 
     // var indice = 0;
@@ -187,3 +189,5 @@ window.PlotlyConfig = {MathJaxConfig: 'local'};
     // }, 100);
     //    }
 }
+// JS graficos
+window.PlotlyConfig = {MathJaxConfig: 'local'};
